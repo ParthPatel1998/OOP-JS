@@ -1,2 +1,2 @@
 # OOP-JS
-Demonstrations of Object Orianted Principle in JS
+Demonstrations of Object Oriented Principles in JS
